@@ -1,4 +1,3 @@
-# Public-Learning-Github
-This repo is also created for learning purpose. But comes after the first. We have to shut down first due to private reasons.
+This is feature branch which runs aside or to and fro from the master branch.
 
-Yes, this is true.
+Added line here with some text.
